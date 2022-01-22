@@ -1,4 +1,6 @@
+# everthing react hook
 # from react props, props drilling
+# useSate, useEffect, React form
 # contextApi to useReducer
 # to react router-dom to get single item details from list of product or users
 # to useCallback, useMemo hook and React.memo
