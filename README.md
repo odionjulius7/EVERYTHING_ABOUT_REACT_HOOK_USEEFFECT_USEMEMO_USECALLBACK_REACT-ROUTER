@@ -1,3 +1,12 @@
+# from react props, props drilling
+# contextApi to useReducer
+# to react router-dom to get single item details from list of product or users
+# to useCallback, useMemo hook and React.memo
+# PROP-TYPE: uses and syntax and format 
+# setting default-props
+
+
+
 ## Corresponding Projects
 
 #### useState
